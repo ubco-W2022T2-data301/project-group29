@@ -1,11 +1,9 @@
 # Project Vision
 
-Add a vision for what you want your project to look like in the end here... Feel free to remove the everything in this section (remember to leave the "Contracted Grade" section at the end.
-
-You are welcome to update the vision as your project evolves and changes.
+Our project is based on the impact of music on people's mental health. With this project we want to look at what music and the impact it has had over the lives of people. Different genres, frequencies, instruments and lyrics over a peroid of time have helped a lot of people go through their thoughest mental challenges and we as a group want to find out whatthose are.  
 
 
 
 ## Contracted Grade
 
-For this project, we agree to contract for a { A+/A/B/C }.
+For this project, we agree to contract for a {A}.
