@@ -1,6 +1,6 @@
-# Group YY - {Short snappy Title of your project}
+# Group 29 - {The Effects of Music}
 
-- Your title can change over time.
+
 
 ## Milestones
 
