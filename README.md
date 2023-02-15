@@ -8,15 +8,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+We are interested in the various connections and relationships between music and mental health. Each of us have gone through phases og greater difficulty in our lives or are still going through such phases presently and have tried used music in one form or another to soothe ourselves and help us through. For all of us, this inclination to explore music for this purpose was moreso instinctive, however, and so we would like to see if there is any statistical indications that music does indeed help with mental ailments. In our analyses, we would like to explore the various relationships between music and mental wellbeing such as how different genres may affect mental wellbeing, and what types of mental ailments such forms of music seem to help reduce (if they do at all). With our analyses, we hope to see indication that music as a whole helps reduce the overbearing pressure of certain mental ailments.
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Our data set contains observation metrics (both categorical and numerical) assessing each participant’s self-reported level of stress, anxiety, OCD, and insomnia, in relation to their music-listening habits (eg. frequency of listening to a given genre, number of hours of music per day, their primary streaming service, etc).
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Patrick: I am currently a third-year computer science student who love to listen to music whenever the chance arises.
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
