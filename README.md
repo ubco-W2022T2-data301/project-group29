@@ -12,7 +12,7 @@ We are interested in the various connections and relationships between music and
 
 ## Describe your dataset in about 150-200 words
 
-Our data set contains observation metrics (both categorical and numerical) assessing each participant’s self-reported level of stress, anxiety, OCD, and insomnia, in relation to their music-listening habits (eg. frequency of listening to a given genre, number of hours of music per day, their primary streaming service, etc). 
+Our data set contains observation metrics (both categorical and numerical) assessing each participant’s self-reported level of stress, anxiety, OCD, and insomnia, in relation to their music-listening habits (eg. frequency of listening to a given genre, number of hours of music per day, their primary streaming service, etc). The dataset was created to examine how musical therapy can be used to better listeners mental health. The survey was distributed through various social media sites (Reddit, Discord, etc.), and was also adversitsed through posters and business cards. Certain responses were left option as participants may not know the answer, for example in the case of beats per minute. The data is also all survey results and as such is also based purely on the opinion of the surveyed person, rather than healthcare professionals.
 
 ## Team Members
 
