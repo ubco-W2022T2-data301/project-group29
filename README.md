@@ -12,12 +12,12 @@ We are interested in the various connections and relationships between music and
 
 ## Describe your dataset in about 150-200 words
 
-Our data set contains observation metrics (both categorical and numerical) assessing each participant’s self-reported level of stress, anxiety, OCD, and insomnia, in relation to their music-listening habits (eg. frequency of listening to a given genre, number of hours of music per day, their primary streaming service, etc).
+Our data set contains observation metrics (both categorical and numerical) assessing each participant’s self-reported level of stress, anxiety, OCD, and insomnia, in relation to their music-listening habits (eg. frequency of listening to a given genre, number of hours of music per day, their primary streaming service, etc). 
 
 ## Team Members
 
 - Patrick: I am currently a third-year computer science student who love to listen to music whenever the chance arises.
-- Person 2: one sentence about you!
+- Burkely: I am a fourth-year Management student that is planning to find a career in accounting.
 - Person 3: one sentence about you!
 
 ## Images
