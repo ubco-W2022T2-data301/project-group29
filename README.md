@@ -18,7 +18,7 @@ Our data set contains observation metrics (both categorical and numerical) asses
 
 - Patrick: I am currently a third-year computer science student who love to listen to music whenever the chance arises.
 - Burkely: I am a fourth-year Management student that is planning to find a career in accounting.
-- Person 3: one sentence about you!
+- Person 3: I am currently a third-year computer science student who loves comic books and music
 
 ## Images
 
