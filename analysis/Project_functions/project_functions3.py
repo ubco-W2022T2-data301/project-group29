@@ -14,3 +14,8 @@ processed_df = (
 
 print(processed_df)
 
+import project_functions.project_functions3 as pf
+
+url_or_path_to_csv_file = 'path/to/data.csv'
+df = pf.load_and_process(url_or_path_to_csv_file)
+print(df.head())
