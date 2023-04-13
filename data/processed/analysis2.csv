@@ -1,0 +1,737 @@
+,Age,Primary streaming service,Hours per day,Fav genre,BPM,Exploratory,Foreign languages
+0,18.0,Spotify,3.0,Latin,156.0,Yes,Yes
+1,63.0,Pandora,1.5,Rock,119.0,Yes,No
+2,18.0,Spotify,4.0,Video game music,132.0,No,Yes
+3,61.0,YouTube Music,2.5,Jazz,84.0,Yes,Yes
+4,18.0,Spotify,4.0,R&B,107.0,Yes,No
+5,18.0,Spotify,5.0,Jazz,86.0,Yes,Yes
+6,18.0,YouTube Music,3.0,Video game music,66.0,Yes,Yes
+7,21.0,Spotify,1.0,K pop,95.0,Yes,Yes
+8,19.0,Spotify,6.0,Rock,94.0,No,No
+9,18.0,I do not use a streaming service.,1.0,R&B,155.0,Yes,Yes
+10,18.0,Spotify,3.0,Country,,Yes,No
+11,19.0,YouTube Music,8.0,EDM,125.0,Yes,No
+12,,Spotify,3.0,Hip hop,,Yes,Yes
+13,19.0,Spotify,2.0,Country,88.0,Yes,No
+14,18.0,Spotify,4.0,Jazz,148.0,Yes,Yes
+15,17.0,Spotify,2.0,Pop,,Yes,Yes
+16,16.0,Spotify,8.0,Hip hop,103.0,Yes,Yes
+17,16.0,Spotify,12.0,Hip hop,120.0,Yes,Yes
+18,17.0,Spotify,24.0,Rap,99.0,Yes,No
+19,15.0,Spotify,3.0,Hip hop,120.0,No,No
+20,15.0,Apple Music,8.0,Hip hop,120.0,Yes,Yes
+21,17.0,Spotify,4.0,Rap,125.0,Yes,No
+22,19.0,I do not use a streaming service.,5.0,R&B,118.0,Yes,Yes
+23,18.0,Spotify,2.0,Pop,79.0,No,Yes
+24,16.0,Other streaming service,3.0,Rock,84.0,Yes,Yes
+25,18.0,Spotify,2.0,Pop,169.0,Yes,Yes
+26,14.0,Spotify,12.0,Rock,136.0,Yes,Yes
+27,18.0,YouTube Music,6.0,Pop,101.0,No,Yes
+28,17.0,Spotify,2.0,Pop,126.0,Yes,Yes
+29,17.0,Apple Music,1.0,Pop,183.0,Yes,No
+30,20.0,Apple Music,5.0,Rock,,Yes,Yes
+31,19.0,Spotify,2.0,Classical,120.0,No,No
+32,19.0,Spotify,6.0,Metal,,Yes,Yes
+33,17.0,Spotify,4.0,Rock,142.0,Yes,Yes
+34,16.0,Spotify,1.0,Classical,75.0,No,No
+35,18.0,Spotify,5.0,Pop,120.0,Yes,No
+36,21.0,Spotify,4.0,Pop,89.0,No,Yes
+37,17.0,Other streaming service,3.0,Pop,,Yes,No
+38,26.0,Other streaming service,0.5,Rock,140.0,No,Yes
+39,20.0,Spotify,4.0,EDM,161.0,Yes,No
+40,23.0,YouTube Music,2.0,Video game music,80.0,Yes,No
+41,18.0,Spotify,5.0,Rock,130.0,Yes,No
+42,37.0,YouTube Music,0.25,Video game music,147.0,Yes,No
+43,17.0,Spotify,3.0,Classical,120.0,Yes,Yes
+44,18.0,Spotify,4.0,Metal,77.0,Yes,Yes
+45,17.0,I do not use a streaming service.,1.0,Folk,118.0,No,No
+46,36.0,Spotify,1.0,Classical,132.0,No,No
+47,24.0,Spotify,3.0,Rock,115.0,Yes,Yes
+48,18.0,Spotify,5.0,Metal,157.0,Yes,Yes
+49,19.0,Spotify,3.0,Pop,90.0,No,Yes
+50,17.0,Apple Music,2.0,EDM,128.0,Yes,No
+51,16.0,Spotify,6.0,K pop,169.0,Yes,Yes
+52,23.0,Apple Music,1.0,Rap,140.0,No,Yes
+53,23.0,Spotify,12.0,Pop,96.0,Yes,Yes
+54,22.0,Spotify,4.0,Rock,126.0,Yes,Yes
+55,16.0,Apple Music,2.0,Classical,,Yes,No
+56,18.0,Spotify,6.0,Rock,91.0,Yes,No
+57,42.0,I do not use a streaming service.,0.0,Rock,,No,Yes
+58,23.0,Spotify,7.0,Folk,55.0,Yes,Yes
+59,23.0,I do not use a streaming service.,1.0,Video game music,85.0,No,No
+60,19.0,YouTube Music,1.0,K pop,160.0,Yes,Yes
+61,22.0,Pandora,1.0,Rock,108.0,Yes,No
+62,15.0,Other streaming service,2.0,Rock,156.0,No,No
+63,25.0,Spotify,2.0,Metal,170.0,No,Yes
+64,32.0,Spotify,5.0,Rock,91.0,No,Yes
+65,36.0,Spotify,6.0,Metal,174.0,Yes,Yes
+66,24.0,Spotify,3.0,Rock,130.0,Yes,Yes
+67,29.0,Spotify,4.0,Hip hop,140.0,Yes,No
+68,41.0,Apple Music,3.0,Metal,130.0,Yes,Yes
+69,36.0,I do not use a streaming service.,2.0,Rock,127.0,Yes,No
+70,19.0,YouTube Music,3.0,Rock,160.0,Yes,No
+71,31.0,Spotify,2.0,Rock,,Yes,Yes
+72,16.0,Spotify,4.0,Rock,,No,Yes
+73,26.0,Spotify,2.0,Hip hop,165.0,Yes,Yes
+74,22.0,Apple Music,0.5,Hip hop,113.0,No,No
+75,16.0,Spotify,5.0,Jazz,167.0,Yes,Yes
+76,17.0,Spotify,5.0,Metal,95.0,Yes,Yes
+77,19.0,Spotify,10.0,R&B,110.0,Yes,Yes
+78,18.0,YouTube Music,2.0,EDM,150.0,No,Yes
+79,18.0,YouTube Music,4.0,Hip hop,93.0,Yes,Yes
+80,19.0,Spotify,5.0,Rock,90.0,Yes,Yes
+81,19.0,Spotify,3.0,Jazz,118.0,Yes,No
+82,22.0,Spotify,2.0,K pop,126.0,Yes,Yes
+83,16.0,Spotify,2.5,Rock,103.0,Yes,Yes
+84,19.0,Spotify,3.0,R&B,77.0,Yes,Yes
+85,37.0,Spotify,1.0,Rock,115.0,No,No
+86,14.0,Spotify,7.0,Jazz,110.0,No,No
+87,33.0,I do not use a streaming service.,1.0,Metal,,No,Yes
+88,26.0,Spotify,1.0,R&B,113.0,No,No
+89,32.0,Spotify,3.0,Hip hop,157.0,No,No
+90,30.0,Spotify,5.0,Metal,160.0,Yes,No
+91,43.0,I do not use a streaming service.,6.0,Video game music,109.0,Yes,Yes
+92,24.0,Spotify,4.0,Classical,175.0,Yes,Yes
+93,36.0,YouTube Music,1.0,Rock,110.0,Yes,No
+94,19.0,YouTube Music,4.0,Video game music,162.0,Yes,No
+95,22.0,Spotify,10.0,Metal,189.0,Yes,Yes
+96,20.0,Spotify,3.0,EDM,121.0,Yes,Yes
+97,31.0,Spotify,2.0,Rock,200.0,Yes,No
+98,19.0,Spotify,4.0,Metal,105.0,Yes,Yes
+99,15.0,Spotify,8.0,Rock,193.0,No,No
+100,18.0,Spotify,2.0,Metal,149.0,Yes,Yes
+101,25.0,I do not use a streaming service.,0.5,Classical,140.0,No,No
+102,17.0,Apple Music,5.0,Metal,134.0,Yes,No
+103,28.0,YouTube Music,1.0,Rock,120.0,Yes,No
+104,20.0,Spotify,3.0,Rock,170.0,Yes,Yes
+105,21.0,YouTube Music,2.0,Metal,107.0,Yes,Yes
+106,41.0,Spotify,3.0,Pop,113.0,No,Yes
+107,20.0,Spotify,2.0,Pop,126.0,Yes,No
+108,34.0,Other streaming service,4.0,Metal,161.0,Yes,Yes
+109,21.0,YouTube Music,3.0,Metal,,Yes,No
+110,23.0,Spotify,2.0,Metal,100.0,Yes,Yes
+111,16.0,Spotify,3.0,Pop,140.0,No,No
+112,19.0,YouTube Music,4.0,Pop,156.0,Yes,No
+113,22.0,Spotify,2.0,Rock,98.0,Yes,Yes
+114,19.0,Spotify,8.0,K pop,100.0,Yes,Yes
+115,23.0,Spotify,4.0,Hip hop,78.0,Yes,Yes
+116,23.0,Spotify,2.0,Metal,117.0,No,Yes
+117,22.0,Spotify,1.0,EDM,128.0,Yes,No
+118,17.0,Spotify,3.0,Rock,130.0,Yes,No
+119,28.0,Spotify,0.5,Folk,130.0,Yes,No
+120,23.0,Spotify,2.0,Rock,,Yes,Yes
+121,19.0,Apple Music,3.0,Rock,126.0,Yes,Yes
+122,17.0,Spotify,2.0,Hip hop,122.0,Yes,Yes
+123,21.0,YouTube Music,1.0,Rock,179.0,Yes,No
+124,29.0,Other streaming service,5.0,Jazz,200.0,Yes,Yes
+125,22.0,Spotify,10.0,EDM,128.0,No,Yes
+126,18.0,Spotify,4.0,Pop,130.0,Yes,Yes
+127,13.0,Spotify,2.0,Rock,120.0,Yes,No
+128,24.0,Spotify,1.0,Metal,86.0,Yes,No
+129,35.0,Spotify,6.0,Rock,166.0,Yes,Yes
+130,29.0,YouTube Music,1.0,Video game music,110.0,Yes,No
+131,28.0,Spotify,6.0,Rock,144.0,No,No
+132,32.0,Spotify,7.0,Pop,120.0,Yes,Yes
+133,32.0,Other streaming service,1.0,EDM,120.0,Yes,No
+134,21.0,Spotify,3.0,Rock,160.0,Yes,No
+135,18.0,Spotify,2.0,Video game music,101.0,No,Yes
+136,19.0,Spotify,3.0,Classical,122.0,Yes,No
+137,18.0,Apple Music,2.0,Pop,,Yes,Yes
+138,16.0,YouTube Music,3.0,Pop,,No,No
+139,25.0,Spotify,1.5,Pop,61.0,No,No
+140,17.0,Spotify,4.0,Lofi,79.0,Yes,Yes
+141,16.0,Spotify,2.0,Rap,126.0,Yes,Yes
+142,27.0,Spotify,10.0,Metal,185.0,Yes,Yes
+143,53.0,Spotify,7.0,Pop,92.0,Yes,Yes
+144,25.0,Spotify,1.0,EDM,107.0,No,No
+145,34.0,Spotify,2.0,Metal,120.0,No,No
+146,22.0,Other streaming service,6.0,Jazz,140.0,Yes,Yes
+147,17.0,Spotify,2.0,Jazz,94.0,Yes,No
+148,26.0,Spotify,3.0,Folk,160.0,Yes,No
+149,19.0,Spotify,8.0,EDM,174.0,Yes,No
+150,21.0,Spotify,3.0,Pop,136.0,Yes,Yes
+151,32.0,Spotify,3.0,Rock,144.0,Yes,Yes
+152,21.0,I do not use a streaming service.,3.0,Rock,77.0,No,No
+153,25.0,Spotify,2.0,Pop,120.0,No,No
+154,26.0,Spotify,1.0,Rock,,No,No
+155,21.0,Spotify,2.0,Metal,,Yes,Yes
+156,17.0,Spotify,2.0,Pop,,No,Yes
+157,28.0,I do not use a streaming service.,4.0,Rock,194.0,Yes,Yes
+158,41.0,YouTube Music,4.0,Pop,60.0,Yes,No
+159,18.0,Spotify,1.0,Metal,190.0,Yes,Yes
+160,22.0,Spotify,2.0,R&B,87.0,No,Yes
+161,18.0,Other streaming service,2.0,K pop,122.0,No,Yes
+162,49.0,Other streaming service,1.0,EDM,156.0,Yes,No
+163,21.0,Spotify,3.0,Metal,150.0,Yes,No
+164,27.0,Spotify,10.0,Metal,194.0,Yes,Yes
+165,19.0,Spotify,1.0,Metal,160.0,Yes,Yes
+166,27.0,Spotify,3.0,Metal,171.0,Yes,Yes
+167,27.0,Spotify,1.5,Rock,95.0,No,No
+168,19.0,Spotify,3.0,K pop,114.0,Yes,Yes
+169,42.0,YouTube Music,2.5,Rock,148.0,No,Yes
+170,60.0,Pandora,2.0,Gospel,119.0,No,No
+171,19.0,YouTube Music,5.0,Metal,136.0,No,Yes
+172,20.0,Apple Music,2.0,Pop,141.0,Yes,No
+173,28.0,Spotify,2.0,Metal,146.0,No,No
+174,16.0,I do not use a streaming service.,2.0,Video game music,,Yes,No
+175,18.0,Spotify,2.0,R&B,164.0,No,Yes
+176,34.0,Spotify,1.0,Rock,,Yes,Yes
+177,18.0,YouTube Music,1.5,Pop,,Yes,No
+178,21.0,Spotify,5.0,Folk,128.0,Yes,Yes
+179,38.0,Spotify,0.5,Rock,,Yes,Yes
+180,17.0,Spotify,2.0,Rock,,No,Yes
+181,35.0,Other streaming service,0.5,Pop,,No,No
+182,21.0,I do not use a streaming service.,2.0,Rock,101.0,No,Yes
+183,25.0,Apple Music,2.5,R&B,,No,No
+184,18.0,Spotify,2.0,K pop,98.0,Yes,Yes
+185,16.0,Apple Music,2.0,Pop,145.0,Yes,No
+186,19.0,Spotify,1.0,Pop,94.0,Yes,Yes
+187,31.0,Spotify,4.0,Classical,103.0,No,Yes
+188,26.0,Spotify,5.0,Rock,,No,No
+189,16.0,Spotify,2.0,Rock,112.0,No,No
+190,26.0,Spotify,2.0,Rock,,Yes,Yes
+191,17.0,Spotify,2.0,R&B,118.0,Yes,Yes
+192,22.0,Spotify,1.0,Video game music,,Yes,Yes
+193,20.0,Apple Music,4.0,R&B,113.0,Yes,Yes
+194,30.0,Spotify,1.0,Rock,162.0,Yes,No
+195,26.0,Other streaming service,4.0,Pop,,No,No
+196,19.0,Spotify,5.0,Rock,111.0,Yes,Yes
+197,21.0,,5.0,Country,85.0,Yes,No
+198,33.0,Spotify,7.0,Rock,134.0,Yes,Yes
+199,28.0,YouTube Music,2.0,Rock,172.0,Yes,No
+200,25.0,Spotify,3.0,Rock,180.0,Yes,Yes
+201,22.0,YouTube Music,2.0,Pop,120.0,No,No
+202,19.0,Spotify,3.0,Rock,76.0,Yes,Yes
+203,44.0,Other streaming service,3.0,Folk,130.0,Yes,Yes
+204,22.0,Spotify,3.0,Rock,,No,No
+205,26.0,Spotify,5.0,Metal,109.0,Yes,Yes
+206,23.0,I do not use a streaming service.,6.0,Classical,96.0,No,Yes
+207,17.0,Spotify,2.0,R&B,148.0,No,Yes
+208,42.0,YouTube Music,2.0,Metal,,Yes,No
+209,30.0,Spotify,1.0,Rock,129.0,Yes,No
+210,35.0,Spotify,1.0,Pop,81.0,Yes,Yes
+211,20.0,Spotify,3.0,Rock,136.0,Yes,No
+212,18.0,Spotify,3.0,Rap,155.0,Yes,Yes
+213,21.0,Spotify,1.0,Pop,,No,Yes
+214,19.0,Spotify,6.0,Rock,52.0,Yes,Yes
+215,37.0,Spotify,4.0,Rock,97.0,Yes,No
+216,31.0,Spotify,2.0,Metal,92.0,Yes,Yes
+217,29.0,Spotify,2.0,Folk,100.0,Yes,Yes
+218,20.0,Spotify,3.0,Rock,120.0,Yes,Yes
+219,36.0,I do not use a streaming service.,8.0,Video game music,143.0,No,Yes
+220,18.0,Spotify,3.0,Rock,118.0,Yes,No
+221,18.0,Spotify,2.0,K pop,130.0,Yes,Yes
+222,25.0,Spotify,7.0,Pop,120.0,No,Yes
+223,18.0,YouTube Music,12.0,K pop,126.0,Yes,Yes
+224,31.0,YouTube Music,9.0,Pop,158.0,Yes,Yes
+225,17.0,Spotify,2.0,Pop,160.0,Yes,Yes
+226,21.0,Spotify,1.0,Folk,,No,Yes
+227,30.0,Other streaming service,1.0,Country,119.0,No,No
+228,40.0,Apple Music,2.0,Metal,120.0,Yes,Yes
+229,64.0,I do not use a streaming service.,4.0,Rock,200.0,No,No
+230,14.0,Spotify,2.0,Rock,136.0,Yes,Yes
+231,26.0,YouTube Music,6.0,Rock,104.0,Yes,No
+232,35.0,Spotify,4.0,Country,90.0,Yes,Yes
+233,33.0,Other streaming service,1.0,Rock,120.0,No,No
+234,30.0,Spotify,6.0,Folk,89.0,Yes,Yes
+235,31.0,Spotify,2.0,Metal,95.0,Yes,
+236,27.0,Spotify,5.0,Folk,140.0,Yes,Yes
+237,53.0,I do not use a streaming service.,1.5,Pop,92.0,Yes,Yes
+238,23.0,Spotify,5.0,Metal,120.0,Yes,Yes
+239,25.0,Spotify,2.0,EDM,128.0,Yes,No
+240,16.0,Apple Music,4.0,K pop,140.0,Yes,Yes
+241,18.0,Spotify,2.0,Rock,,Yes,No
+242,29.0,Spotify,5.0,Classical,,Yes,Yes
+243,31.0,YouTube Music,6.0,EDM,136.0,Yes,Yes
+244,31.0,Spotify,1.0,Rock,132.0,No,Yes
+245,38.0,Spotify,6.0,Pop,107.0,Yes,Yes
+246,17.0,Spotify,4.0,Classical,135.0,Yes,Yes
+247,25.0,Apple Music,2.0,EDM,171.0,No,Yes
+248,20.0,Spotify,2.0,Metal,220.0,No,Yes
+249,15.0,Spotify,2.0,EDM,171.0,No,No
+250,16.0,Spotify,4.0,Lofi,85.0,Yes,No
+251,20.0,Spotify,2.0,EDM,174.0,No,Yes
+252,23.0,Other streaming service,6.0,Rap,87.0,Yes,Yes
+253,22.0,Spotify,3.0,Hip hop,77.0,Yes,Yes
+254,15.0,I do not use a streaming service.,5.0,Rock,126.0,Yes,Yes
+255,17.0,I do not use a streaming service.,0.5,Video game music,136.0,No,Yes
+256,22.0,YouTube Music,1.0,Video game music,80.0,Yes,Yes
+257,21.0,Spotify,10.0,Metal,92.0,Yes,Yes
+258,19.0,Spotify,2.0,Pop,120.0,No,Yes
+259,32.0,Apple Music,0.5,Classical,,Yes,No
+260,34.0,YouTube Music,1.0,Rock,138.0,No,Yes
+261,18.0,I do not use a streaming service.,2.0,Metal,150.0,Yes,Yes
+262,21.0,Spotify,3.0,Country,108.0,Yes,No
+263,20.0,Spotify,3.0,Country,119.0,Yes,Yes
+264,19.0,Spotify,2.0,Country,125.0,Yes,No
+265,25.0,I do not use a streaming service.,1.0,Pop,,No,Yes
+266,31.0,Spotify,8.0,Classical,,Yes,Yes
+267,21.0,Spotify,1.0,Pop,85.0,Yes,Yes
+268,31.0,YouTube Music,1.0,Folk,113.0,Yes,Yes
+269,20.0,YouTube Music,1.0,Pop,86.0,Yes,No
+270,19.0,Spotify,5.0,Rock,141.0,Yes,No
+271,19.0,Other streaming service,5.0,EDM,97.0,Yes,Yes
+272,23.0,Spotify,4.0,Metal,,Yes,Yes
+273,24.0,I do not use a streaming service.,8.0,Video game music,120.0,Yes,No
+274,20.0,Other streaming service,0.7,Rock,144.0,No,No
+275,15.0,Spotify,3.0,Video game music,84.0,No,No
+276,17.0,Spotify,7.0,Hip hop,84.0,No,Yes
+277,20.0,I do not use a streaming service.,1.5,Video game music,60.0,No,Yes
+278,14.0,Spotify,4.0,Video game music,81.0,Yes,Yes
+279,24.0,Spotify,4.0,Metal,150.0,Yes,Yes
+280,14.0,Other streaming service,10.0,Video game music,95.0,No,No
+281,23.0,Spotify,2.0,Rock,138.0,Yes,No
+282,28.0,Apple Music,2.0,Rock,,No,No
+283,22.0,Spotify,6.0,Jazz,140.0,Yes,Yes
+284,25.0,Spotify,0.5,Rock,139.0,Yes,Yes
+285,27.0,Spotify,2.0,Pop,100.0,Yes,Yes
+286,18.0,Spotify,5.0,Rock,,Yes,Yes
+287,17.0,Apple Music,3.0,Pop,120.0,Yes,No
+288,23.0,Other streaming service,4.5,Rock,,No,Yes
+289,40.0,Other streaming service,3.0,Rock,178.0,Yes,Yes
+290,27.0,Spotify,20.0,Rock,,Yes,Yes
+291,18.0,Spotify,1.0,Pop,100.0,Yes,No
+292,16.0,Spotify,2.5,Metal,110.0,Yes,No
+293,18.0,Spotify,1.0,Rock,108.0,Yes,Yes
+294,23.0,Spotify,2.0,Jazz,,No,Yes
+295,15.0,I do not use a streaming service.,5.0,Metal,161.0,Yes,No
+296,20.0,Apple Music,3.0,Metal,200.0,Yes,No
+297,16.0,Spotify,3.0,Rock,,Yes,No
+298,16.0,Spotify,0.5,Rock,156.0,No,Yes
+299,20.0,Apple Music,8.0,Country,120.0,Yes,No
+300,33.0,Spotify,2.0,Metal,,Yes,Yes
+301,22.0,Spotify,3.0,Rock,90.0,Yes,Yes
+302,21.0,Spotify,3.0,Hip hop,85.0,Yes,Yes
+303,21.0,Apple Music,5.0,Metal,171.0,Yes,Yes
+304,29.0,Apple Music,1.5,Rock,108.0,Yes,Yes
+305,56.0,I do not use a streaming service.,1.0,Pop,105.0,No,No
+306,17.0,Spotify,2.0,Pop,76.0,Yes,No
+307,22.0,Spotify,1.0,Pop,108.0,No,No
+308,26.0,Spotify,4.0,Pop,140.0,Yes,Yes
+309,30.0,Spotify,1.0,EDM,200.0,Yes,Yes
+310,49.0,Spotify,2.0,Folk,147.0,Yes,No
+311,22.0,Spotify,2.0,EDM,120.0,Yes,Yes
+312,32.0,Spotify,2.0,Rock,158.0,Yes,No
+313,32.0,I do not use a streaming service.,1.0,Rock,110.0,No,No
+314,22.0,YouTube Music,6.0,Country,103.0,Yes,No
+315,17.0,Spotify,2.0,Rock,93.0,Yes,Yes
+316,21.0,Spotify,4.0,Rock,62.0,Yes,No
+317,17.0,Spotify,1.5,Rock,180.0,Yes,Yes
+318,25.0,Spotify,3.0,Metal,150.0,No,No
+319,15.0,Spotify,4.0,Rock,105.0,Yes,No
+320,13.0,Spotify,10.0,Rap,140.0,Yes,No
+321,38.0,Spotify,3.0,Rock,,No,Yes
+322,23.0,Apple Music,3.0,Rock,161.0,Yes,No
+323,17.0,Spotify,3.0,Pop,120.0,Yes,Yes
+324,59.0,YouTube Music,2.0,Pop,103.0,Yes,No
+325,22.0,Spotify,2.0,Pop,72.0,Yes,No
+326,17.0,Apple Music,3.0,Pop,113.0,Yes,Yes
+327,27.0,Spotify,2.0,Pop,120.0,No,No
+328,23.0,Spotify,5.0,Video game music,95.0,No,No
+329,15.0,Spotify,6.0,Rock,97.0,No,No
+330,22.0,Spotify,3.0,EDM,140.0,Yes,No
+331,23.0,Spotify,5.0,Lofi,120.0,Yes,Yes
+332,19.0,Spotify,5.0,Country,118.0,Yes,Yes
+333,32.0,Spotify,6.0,Rock,91.0,No,No
+334,40.0,Spotify,6.0,Rock,128.0,Yes,Yes
+335,21.0,Spotify,3.0,Country,86.0,Yes,No
+336,21.0,Spotify,10.0,Rock,107.0,Yes,Yes
+337,23.0,Spotify,2.0,Video game music,180.0,Yes,Yes
+338,21.0,YouTube Music,2.0,EDM,,No,Yes
+339,35.0,Spotify,3.0,Folk,0.0,Yes,No
+340,18.0,Spotify,1.5,Hip hop,150.0,No,No
+341,21.0,I do not use a streaming service.,10.0,Pop,112.0,Yes,No
+342,22.0,I do not use a streaming service.,2.0,Video game music,,No,Yes
+343,23.0,Spotify,3.0,Rock,66.0,Yes,Yes
+344,13.0,Spotify,2.5,Folk,118.0,No,No
+345,19.0,Spotify,3.0,K pop,110.0,Yes,Yes
+346,33.0,YouTube Music,0.5,Rock,80.0,No,No
+347,18.0,Spotify,16.0,Jazz,90.0,Yes,Yes
+348,17.0,YouTube Music,6.0,Classical,120.0,Yes,Yes
+349,16.0,Spotify,3.0,EDM,100.0,Yes,Yes
+350,18.0,YouTube Music,0.5,Rock,66.0,Yes,No
+351,19.0,Spotify,5.0,K pop,158.0,Yes,Yes
+352,15.0,YouTube Music,2.0,Rap,105.0,Yes,Yes
+353,17.0,Spotify,2.0,Pop,208.0,Yes,Yes
+354,25.0,Spotify,2.0,Lofi,91.0,Yes,Yes
+355,24.0,Other streaming service,1.5,Video game music,171.0,No,Yes
+356,23.0,Spotify,1.0,Jazz,150.0,Yes,No
+357,16.0,Spotify,10.0,EDM,180.0,Yes,Yes
+358,25.0,YouTube Music,2.0,Metal,,Yes,Yes
+359,16.0,Spotify,15.0,EDM,85.0,Yes,No
+360,20.0,I do not use a streaming service.,0.5,Metal,150.0,Yes,Yes
+361,17.0,Spotify,3.0,Metal,104.0,Yes,No
+362,29.0,I do not use a streaming service.,2.0,Metal,,Yes,No
+363,20.0,Spotify,4.0,Hip hop,85.0,Yes,No
+364,16.0,Spotify,2.0,Folk,,Yes,No
+365,21.0,Spotify,1.0,Rock,147.0,Yes,No
+366,16.0,Spotify,24.0,Rock,120.0,Yes,Yes
+367,43.0,Spotify,1.0,Pop,134.0,Yes,No
+368,32.0,Pandora,2.0,Classical,,Yes,No
+369,10.0,YouTube Music,2.0,Pop,112.0,Yes,Yes
+370,27.0,Spotify,3.0,Metal,200.0,Yes,Yes
+371,24.0,Spotify,3.0,Classical,75.0,No,Yes
+372,18.0,Spotify,2.0,Hip hop,20.0,Yes,Yes
+373,17.0,Apple Music,7.0,Rock,140.0,No,No
+374,19.0,Spotify,6.0,Metal,111.0,Yes,No
+375,16.0,YouTube Music,3.0,Rock,150.0,Yes,Yes
+376,64.0,Other streaming service,5.0,Rock,,Yes,No
+377,33.0,Apple Music,4.0,Lofi,114.0,Yes,Yes
+378,32.0,I do not use a streaming service.,3.0,Rock,93.0,No,Yes
+379,15.0,Pandora,2.0,Pop,145.0,Yes,No
+380,27.0,YouTube Music,3.0,Metal,100.0,Yes,Yes
+381,20.0,I do not use a streaming service.,2.0,Rock,114.0,Yes,No
+382,23.0,I do not use a streaming service.,2.0,Pop,109.0,Yes,Yes
+383,19.0,Apple Music,3.0,Classical,,Yes,No
+384,12.0,YouTube Music,2.0,Classical,,No,No
+385,16.0,Other streaming service,3.0,Classical,72.0,No,No
+386,17.0,Other streaming service,0.0,Video game music,89.0,No,Yes
+387,14.0,Spotify,1.0,Pop,140.0,Yes,No
+388,32.0,Spotify,2.0,Metal,84.0,Yes,No
+389,20.0,Spotify,2.0,Pop,132.0,No,Yes
+390,54.0,I do not use a streaming service.,6.0,Classical,,No,No
+391,18.0,Spotify,5.0,K pop,124.0,Yes,Yes
+392,14.0,Spotify,2.0,Classical,181.0,Yes,No
+393,13.0,Other streaming service,4.0,Classical,126.0,Yes,No
+394,19.0,Apple Music,8.0,Country,109.0,Yes,No
+395,14.0,Spotify,4.0,Classical,106.0,Yes,No
+396,14.0,YouTube Music,1.5,Classical,140.0,Yes,
+397,18.0,Apple Music,2.0,Rap,170.0,Yes,Yes
+398,15.0,Spotify,5.0,Folk,87.0,Yes,Yes
+399,24.0,YouTube Music,6.0,Classical,,No,No
+400,17.0,Apple Music,2.0,Pop,117.0,No,Yes
+401,44.0,Spotify,2.0,Rock,105.0,Yes,No
+402,23.0,Spotify,1.0,Rock,,Yes,No
+403,21.0,Apple Music,1.0,Rap,160.0,No,No
+404,57.0,Other streaming service,2.0,R&B,,Yes,No
+405,23.0,Spotify,2.0,Rock,141.0,Yes,Yes
+406,18.0,Spotify,1.0,Pop,105.0,No,Yes
+407,26.0,Spotify,14.0,Hip hop,158.0,Yes,Yes
+408,13.0,YouTube Music,3.0,Classical,80.0,No,No
+409,15.0,Spotify,3.0,Classical,118.0,Yes,No
+410,57.0,YouTube Music,2.0,Rock,125.0,Yes,No
+411,12.0,Spotify,0.5,Classical,109.0,Yes,Yes
+412,26.0,Spotify,6.0,EDM,156.0,No,Yes
+413,17.0,Spotify,1.0,Country,105.0,No,No
+414,17.0,Spotify,2.0,Classical,,Yes,Yes
+415,69.0,Pandora,4.0,Classical,72.0,Yes,Yes
+416,17.0,Spotify,3.0,R&B,148.0,Yes,Yes
+417,32.0,Spotify,12.0,Jazz,200.0,Yes,Yes
+418,22.0,YouTube Music,3.0,Classical,113.0,Yes,No
+419,38.0,Spotify,1.0,Metal,191.0,Yes,Yes
+420,18.0,YouTube Music,10.0,EDM,140.0,Yes,No
+421,14.0,Spotify,5.0,Classical,40.0,Yes,Yes
+422,14.0,Other streaming service,0.5,Video game music,173.0,Yes,Yes
+423,19.0,Spotify,5.0,Metal,180.0,Yes,Yes
+424,20.0,YouTube Music,3.0,Classical,100.0,Yes,No
+425,18.0,Spotify,2.0,Rock,123.0,Yes,No
+426,30.0,Spotify,13.0,K pop,145.0,Yes,Yes
+427,31.0,I do not use a streaming service.,4.0,Classical,55.0,Yes,Yes
+428,72.0,Spotify,6.0,Rock,77.0,No,No
+429,73.0,Pandora,3.0,R&B,4.0,Yes,Yes
+430,16.0,Spotify,4.0,Pop,150.0,Yes,Yes
+431,19.0,YouTube Music,3.0,Rap,73.0,Yes,Yes
+432,16.0,Spotify,2.0,Classical,155.0,No,No
+433,12.0,Spotify,2.0,Classical,,Yes,Yes
+434,39.0,Spotify,1.0,Hip hop,89.0,Yes,Yes
+435,15.0,Spotify,6.0,K pop,110.0,Yes,Yes
+436,14.0,Spotify,9.0,R&B,140.0,Yes,Yes
+437,21.0,Spotify,1.0,Country,135.0,No,No
+438,38.0,Apple Music,1.0,Video game music,125.0,No,No
+439,23.0,Spotify,0.5,Hip hop,110.0,Yes,Yes
+440,16.0,Other streaming service,1.0,EDM,140.0,Yes,No
+441,21.0,Apple Music,1.5,Folk,105.0,No,No
+442,13.0,Spotify,6.0,Rap,112.0,Yes,No
+443,16.0,Spotify,4.0,Rock,96.0,Yes,No
+444,18.0,Spotify,6.0,Rock,,Yes,No
+445,21.0,Spotify,4.0,Metal,155.0,Yes,Yes
+446,17.0,Spotify,1.5,Classical,174.0,Yes,Yes
+447,24.0,Apple Music,2.0,Rock,93.0,Yes,Yes
+448,14.0,Apple Music,2.0,Pop,78.0,Yes,No
+449,25.0,Spotify,4.0,Rock,,Yes,Yes
+450,22.0,Spotify,3.0,Lofi,174.0,Yes,Yes
+451,20.0,I do not use a streaming service.,4.0,Rock,120.0,Yes,Yes
+452,23.0,Spotify,2.0,Pop,75.0,No,No
+453,61.0,Pandora,2.0,Rock,94.0,Yes,No
+454,24.0,Spotify,6.0,Video game music,180.0,No,Yes
+455,34.0,Spotify,0.0,Rock,115.0,No,Yes
+456,49.0,Spotify,1.0,Pop,128.0,Yes,No
+457,33.0,I do not use a streaming service.,4.0,Rock,112.0,Yes,Yes
+458,22.0,I do not use a streaming service.,2.0,Metal,140.0,No,No
+459,38.0,Spotify,3.0,Metal,143.0,Yes,Yes
+460,23.0,YouTube Music,4.0,Hip hop,72.0,Yes,No
+461,34.0,I do not use a streaming service.,2.0,Video game music,100.0,No,Yes
+462,40.0,Other streaming service,3.0,Metal,120.0,Yes,Yes
+463,27.0,Spotify,1.0,Hip hop,,Yes,No
+464,54.0,YouTube Music,10.0,Rock,,Yes,No
+465,16.0,Spotify,10.0,Rock,105.0,Yes,No
+466,23.0,I do not use a streaming service.,10.0,Video game music,119.0,No,Yes
+467,35.0,Spotify,4.0,Country,,Yes,No
+468,22.0,YouTube Music,4.0,Folk,137.0,Yes,Yes
+469,41.0,Spotify,3.0,Metal,178.0,Yes,Yes
+470,63.0,Spotify,2.0,Rock,133.0,Yes,No
+471,28.0,Spotify,1.0,Rock,72.0,Yes,No
+472,22.0,Spotify,6.0,Country,,Yes,No
+473,58.0,YouTube Music,1.0,Rock,133.0,Yes,No
+474,58.0,YouTube Music,1.0,Classical,80.0,Yes,No
+475,67.0,Other streaming service,4.0,Rock,146.0,No,No
+476,70.0,I do not use a streaming service.,2.0,Country,88.0,No,No
+477,60.0,YouTube Music,2.0,Rock,132.0,No,Yes
+478,15.0,Spotify,2.0,Pop,102.0,Yes,No
+479,18.0,YouTube Music,6.0,EDM,91.0,Yes,Yes
+480,58.0,Other streaming service,3.0,Hip hop,127.0,Yes,Yes
+481,28.0,Other streaming service,1.0,Lofi,82.0,Yes,Yes
+482,22.0,Spotify,4.0,Lofi,141.0,Yes,No
+483,49.0,YouTube Music,0.5,Classical,114.0,No,No
+484,20.0,YouTube Music,8.0,Rock,148.0,Yes,Yes
+485,55.0,YouTube Music,15.0,Rock,156.0,No,No
+486,48.0,Spotify,1.5,Metal,185.0,No,No
+487,14.0,Spotify,2.0,K pop,114.0,Yes,Yes
+488,18.0,Spotify,3.0,Pop,120.0,Yes,Yes
+489,25.0,Spotify,1.0,Pop,80.0,Yes,Yes
+490,71.0,I do not use a streaming service.,0.25,Gospel,,No,Yes
+491,60.0,YouTube Music,1.0,Gospel,,No,No
+492,18.0,I do not use a streaming service.,1.0,Video game music,116.0,No,No
+493,19.0,Spotify,5.0,Hip hop,99.0,No,Yes
+494,74.0,I do not use a streaming service.,1.0,Pop,129.0,No,No
+495,36.0,Pandora,1.0,Hip hop,131.0,No,No
+496,14.0,Spotify,7.0,Lofi,95.0,Yes,Yes
+497,20.0,Spotify,3.0,Hip hop,80.0,Yes,Yes
+498,15.0,Spotify,3.0,K pop,204.0,Yes,Yes
+499,19.0,I do not use a streaming service.,7.0,Rock,128.0,No,No
+500,29.0,Spotify,8.0,EDM,140.0,No,Yes
+501,24.0,Spotify,2.0,Metal,159.0,Yes,No
+502,18.0,Apple Music,2.0,Pop,104.0,Yes,Yes
+503,21.0,Spotify,2.0,Rock,97.0,Yes,Yes
+504,19.0,Spotify,2.0,K pop,80.0,Yes,Yes
+505,25.0,Spotify,4.0,Video game music,134.0,Yes,Yes
+506,28.0,Spotify,8.0,Rock,,Yes,Yes
+507,27.0,Other streaming service,4.0,Rap,135.0,Yes,No
+508,60.0,Spotify,1.0,Rock,129.0,Yes,No
+509,25.0,YouTube Music,5.0,Metal,,No,Yes
+510,60.0,Other streaming service,2.0,Rock,,No,No
+511,43.0,Other streaming service,1.0,Country,110.0,No,No
+512,51.0,I do not use a streaming service.,5.0,Rock,180.0,No,No
+513,63.0,YouTube Music,8.0,Rock,70.0,Yes,No
+514,64.0,YouTube Music,2.0,Classical,,No,No
+515,22.0,Spotify,2.0,Pop,,No,No
+516,24.0,YouTube Music,1.0,Folk,103.0,No,Yes
+517,19.0,Spotify,8.0,Pop,99.0,Yes,Yes
+518,56.0,Apple Music,8.0,Pop,117.0,Yes,No
+519,20.0,Spotify,1.0,EDM,102.0,Yes,No
+520,19.0,I do not use a streaming service.,1.0,Video game music,127.0,No,No
+521,20.0,Spotify,8.0,Jazz,93.0,Yes,Yes
+522,60.0,Spotify,2.0,Rock,,No,No
+523,65.0,Apple Music,6.0,R&B,146.0,No,Yes
+524,28.0,Spotify,3.0,Metal,0.0,Yes,Yes
+525,18.0,I do not use a streaming service.,4.0,EDM,150.0,No,Yes
+526,42.0,Spotify,2.0,Rock,85.0,No,Yes
+527,80.0,I do not use a streaming service.,3.0,Classical,122.0,No,No
+528,22.0,I do not use a streaming service.,4.0,Pop,,Yes,No
+529,56.0,Other streaming service,2.0,Jazz,120.0,Yes,Yes
+530,20.0,YouTube Music,1.0,Pop,120.0,No,Yes
+531,15.0,Spotify,1.0,Video game music,150.0,Yes,Yes
+532,67.0,I do not use a streaming service.,1.0,Rock,,No,No
+533,57.0,Spotify,2.0,Gospel,174.0,No,No
+534,22.0,Apple Music,7.0,Pop,112.0,Yes,Yes
+535,17.0,Spotify,5.0,Pop,180.0,Yes,Yes
+536,19.0,Spotify,3.0,Rock,121.0,No,No
+537,50.0,I do not use a streaming service.,1.0,Rock,98.0,No,No
+538,24.0,Spotify,6.0,Rock,118.0,Yes,Yes
+539,67.0,Apple Music,2.0,Rock,,Yes,No
+540,18.0,Other streaming service,3.0,Metal,135.0,Yes,No
+541,20.0,Spotify,1.5,Country,,No,No
+542,15.0,Spotify,4.0,Pop,105.0,Yes,No
+543,17.0,Spotify,2.0,Pop,122.0,Yes,Yes
+544,32.0,YouTube Music,2.0,Folk,,Yes,No
+545,18.0,Spotify,2.0,Rap,136.0,Yes,Yes
+546,18.0,Spotify,1.0,Rock,165.0,Yes,No
+547,18.0,Spotify,3.0,K pop,130.0,Yes,Yes
+548,19.0,Spotify,3.0,Pop,,Yes,No
+549,18.0,Spotify,2.0,Rock,115.0,Yes,No
+550,17.0,Other streaming service,6.0,Rap,140.0,Yes,No
+551,34.0,Spotify,3.0,Classical,95.0,No,Yes
+552,18.0,YouTube Music,3.0,Pop,150.0,No,No
+553,18.0,Spotify,2.0,R&B,97.0,Yes,No
+554,22.0,I do not use a streaming service.,2.0,Video game music,,No,No
+555,18.0,Spotify,2.0,Pop,,Yes,No
+556,19.0,Spotify,3.0,Rock,122.0,Yes,Yes
+557,25.0,I do not use a streaming service.,4.0,Pop,150.0,Yes,Yes
+558,17.0,Spotify,2.0,R&B,,Yes,No
+559,25.0,Spotify,5.0,Rock,125.0,Yes,No
+560,18.0,Spotify,2.0,R&B,96.0,No,No
+561,21.0,Spotify,1.0,K pop,,Yes,
+562,24.0,Spotify,7.0,Folk,137.0,Yes,Yes
+563,16.0,Spotify,3.0,K pop,174.0,No,Yes
+564,18.0,Spotify,3.0,Metal,210.0,Yes,No
+565,18.0,Spotify,4.0,R&B,129.0,Yes,Yes
+566,16.0,Spotify,3.0,Pop,112.0,Yes,No
+567,68.0,Pandora,1.0,Gospel,8.0,No,No
+568,16.0,Spotify,7.0,Video game music,999999999.0,Yes,No
+569,21.0,Spotify,1.0,R&B,81.0,Yes,Yes
+570,53.0,Pandora,4.0,R&B,153.0,Yes,Yes
+571,29.0,Spotify,4.0,Classical,120.0,Yes,No
+572,18.0,Spotify,3.0,Video game music,89.0,Yes,Yes
+573,29.0,Spotify,2.0,Pop,,No,No
+574,18.0,Spotify,4.0,R&B,169.0,Yes,Yes
+575,22.0,Spotify,5.0,EDM,138.0,Yes,Yes
+576,19.0,Other streaming service,6.0,Pop,124.0,No,No
+577,13.0,YouTube Music,1.0,Video game music,,Yes,No
+578,26.0,I do not use a streaming service.,1.0,Pop,192.0,No,No
+579,14.0,Spotify,3.0,Rock,76.0,Yes,No
+580,27.0,Spotify,1.0,Pop,119.0,Yes,Yes
+581,26.0,Spotify,8.0,Rock,172.0,No,Yes
+582,59.0,Other streaming service,1.0,Rock,79.0,No,No
+583,30.0,Spotify,8.0,Rock,112.0,Yes,No
+584,27.0,Spotify,1.0,Pop,130.0,Yes,Yes
+585,18.0,Apple Music,1.0,Rap,116.0,Yes,Yes
+586,23.0,I do not use a streaming service.,10.0,Metal,165.0,No,Yes
+587,18.0,Spotify,10.0,Rock,110.0,Yes,No
+588,40.0,Spotify,5.0,Rock,174.0,Yes,Yes
+589,24.0,Spotify,10.0,Rock,180.0,Yes,Yes
+590,23.0,Spotify,2.0,Classical,171.0,Yes,Yes
+591,56.0,Other streaming service,6.0,R&B,,No,No
+592,29.0,Other streaming service,2.0,R&B,70.0,Yes,No
+593,16.0,Other streaming service,3.0,Pop,120.0,No,Yes
+594,18.0,Spotify,8.0,Gospel,56.0,Yes,Yes
+595,21.0,Spotify,8.0,Lofi,162.0,Yes,Yes
+596,32.0,Spotify,8.0,Rock,101.0,Yes,No
+597,22.0,YouTube Music,8.0,Metal,110.0,Yes,No
+598,17.0,Spotify,12.0,Latin,172.0,Yes,No
+599,18.0,Spotify,6.0,EDM,90.0,Yes,Yes
+600,18.0,Spotify,4.0,R&B,135.0,No,Yes
+601,24.0,Spotify,8.0,Jazz,81.0,Yes,No
+602,21.0,Spotify,2.0,Pop,170.0,No,No
+603,46.0,I do not use a streaming service.,1.0,Rock,120.0,No,No
+604,18.0,Spotify,2.0,Hip hop,90.0,Yes,No
+605,16.0,Spotify,3.0,K pop,115.0,Yes,Yes
+606,21.0,Spotify,1.0,Video game music,,Yes,Yes
+607,19.0,I do not use a streaming service.,0.0,Classical,,Yes,Yes
+608,20.0,Spotify,2.0,Rap,,Yes,Yes
+609,21.0,Other streaming service,0.1,Folk,,No,Yes
+610,56.0,I do not use a streaming service.,2.0,Rock,220.0,No,Yes
+611,21.0,Spotify,12.0,Rock,160.0,Yes,Yes
+612,20.0,Spotify,1.0,Pop,121.0,Yes,No
+613,21.0,Apple Music,1.0,Rock,105.0,No,No
+614,25.0,Spotify,3.0,Rock,110.0,No,No
+615,33.0,Spotify,2.0,Metal,134.0,Yes,Yes
+616,20.0,Spotify,2.0,Rock,148.0,Yes,Yes
+617,17.0,Spotify,3.0,Rock,120.0,Yes,No
+618,24.0,YouTube Music,1.0,Jazz,122.0,Yes,Yes
+619,26.0,Spotify,3.0,Jazz,90.0,Yes,Yes
+620,17.0,YouTube Music,3.0,Rock,122.0,No,No
+621,16.0,Spotify,5.0,Metal,129.0,Yes,Yes
+622,27.0,Spotify,8.0,Metal,132.0,Yes,No
+623,28.0,Spotify,4.0,Hip hop,178.0,Yes,Yes
+624,48.0,I do not use a streaming service.,5.0,Rock,,Yes,Yes
+625,19.0,Spotify,3.0,Rap,115.0,No,Yes
+626,21.0,YouTube Music,4.0,Rock,137.0,Yes,Yes
+627,21.0,I do not use a streaming service.,1.0,Classical,92.0,No,No
+628,15.0,Spotify,4.0,Metal,140.0,Yes,Yes
+629,20.0,Spotify,1.0,Rock,130.0,Yes,Yes
+630,21.0,YouTube Music,2.0,Video game music,,No,Yes
+631,22.0,Spotify,6.0,Folk,63.0,Yes,No
+632,22.0,Spotify,2.0,Rock,119.0,No,No
+633,31.0,Spotify,1.0,Rock,,Yes,No
+634,20.0,YouTube Music,4.0,Metal,180.0,Yes,No
+635,49.0,I do not use a streaming service.,8.0,Classical,68.0,No,No
+636,42.0,Spotify,2.0,Metal,85.0,Yes,Yes
+637,26.0,Spotify,2.0,EDM,128.0,Yes,Yes
+638,17.0,Spotify,10.0,K pop,150.0,Yes,Yes
+639,30.0,I do not use a streaming service.,0.0,Metal,0.0,No,No
+640,23.0,Spotify,6.0,Folk,92.0,Yes,Yes
+641,30.0,Apple Music,3.0,EDM,121.0,Yes,Yes
+642,31.0,Spotify,2.0,Metal,155.0,No,Yes
+643,42.0,Other streaming service,0.25,Classical,150.0,Yes,Yes
+644,16.0,Other streaming service,4.0,EDM,624.0,Yes,Yes
+645,34.0,YouTube Music,2.0,Metal,136.0,Yes,No
+646,21.0,YouTube Music,2.0,Pop,121.0,Yes,No
+647,27.0,YouTube Music,3.0,Pop,113.0,No,No
+648,18.0,Spotify,6.0,Folk,80.0,Yes,Yes
+649,26.0,Spotify,3.0,Metal,140.0,Yes,No
+650,37.0,Spotify,2.0,Rock,100.0,Yes,No
+651,26.0,Spotify,5.0,Folk,92.0,Yes,Yes
+652,19.0,Spotify,4.0,Pop,120.0,No,Yes
+653,22.0,Spotify,4.0,Rock,93.0,Yes,No
+654,43.0,I do not use a streaming service.,0.0,Rock,,No,No
+655,24.0,I do not use a streaming service.,12.0,Rock,136.0,Yes,No
+656,21.0,I do not use a streaming service.,0.5,Pop,108.0,No,No
+657,28.0,I do not use a streaming service.,1.0,Rock,147.0,No,No
+658,23.0,YouTube Music,3.0,R&B,93.0,Yes,Yes
+659,20.0,Apple Music,12.0,Rock,98.0,Yes,Yes
+660,17.0,Spotify,4.0,Metal,120.0,No,No
+661,19.0,Spotify,3.0,R&B,130.0,No,No
+662,32.0,Spotify,1.0,Metal,218.0,Yes,Yes
+663,18.0,YouTube Music,4.0,Folk,123.0,Yes,Yes
+664,20.0,Other streaming service,2.0,Rock,135.0,Yes,No
+665,27.0,Spotify,3.0,Rock,105.0,Yes,Yes
+666,15.0,Spotify,3.0,Rock,132.0,No,
+667,26.0,Spotify,1.0,Rock,,Yes,Yes
+668,24.0,Spotify,2.0,Pop,115.0,Yes,Yes
+669,20.0,Spotify,1.0,K pop,120.0,Yes,Yes
+670,21.0,YouTube Music,0.5,Pop,,Yes,Yes
+671,16.0,Spotify,2.0,Video game music,149.0,No,No
+672,21.0,Spotify,11.0,Metal,125.0,Yes,Yes
+673,27.0,Spotify,10.0,Jazz,132.0,Yes,Yes
+674,17.0,Spotify,5.0,Rock,110.0,Yes,No
+675,21.0,Spotify,1.5,Classical,110.0,Yes,Yes
+676,17.0,Spotify,2.0,Folk,116.0,Yes,Yes
+677,21.0,Spotify,3.0,Rap,145.0,Yes,Yes
+678,17.0,YouTube Music,2.0,Rock,,Yes,No
+679,36.0,YouTube Music,3.0,Country,105.0,No,Yes
+680,18.0,Spotify,4.0,R&B,80.0,Yes,Yes
+681,18.0,Spotify,1.0,K pop,100.0,No,Yes
+682,18.0,Apple Music,5.0,Latin,73.0,Yes,Yes
+683,18.0,Apple Music,2.0,R&B,80.0,Yes,No
+684,18.0,Spotify,7.0,Hip hop,,Yes,Yes
+685,18.0,Spotify,2.0,Rap,,Yes,Yes
+686,18.0,I do not use a streaming service.,1.0,Classical,120.0,No,No
+687,18.0,I do not use a streaming service.,1.0,Classical,117.0,No,No
+688,18.0,Spotify,4.0,R&B,,No,No
+689,20.0,Spotify,6.0,R&B,89.0,Yes,Yes
+690,19.0,Spotify,3.0,Hip hop,115.0,Yes,No
+691,17.0,Spotify,4.0,Hip hop,144.0,Yes,No
+692,23.0,Spotify,4.0,Video game music,105.0,Yes,Yes
+693,18.0,YouTube Music,1.0,Pop,114.0,Yes,No
+694,19.0,Spotify,2.0,Pop,145.0,Yes,Yes
+695,89.0,Spotify,24.0,Rap,143.0,No,No
+696,20.0,Spotify,5.0,R&B,128.0,Yes,Yes
+697,16.0,Spotify,3.0,Rock,90.0,Yes,Yes
+698,17.0,Spotify,4.0,Country,110.0,Yes,Yes
+699,16.0,Spotify,9.0,Metal,130.0,No,Yes
+700,20.0,YouTube Music,1.0,Pop,,No,Yes
+701,30.0,YouTube Music,1.0,Rock,115.0,Yes,Yes
+702,37.0,Spotify,2.0,Folk,186.0,Yes,No
+703,44.0,YouTube Music,1.5,Folk,99.0,No,No
+704,21.0,Spotify,2.0,Metal,150.0,Yes,Yes
+705,19.0,Spotify,4.0,Pop,149.0,Yes,No
+706,23.0,Spotify,1.0,Rock,,Yes,Yes
+707,26.0,Spotify,1.0,Country,120.0,Yes,No
+708,18.0,Spotify,3.0,Video game music,140.0,Yes,Yes
+709,35.0,Spotify,4.0,Hip hop,90.0,Yes,No
+710,16.0,Spotify,8.0,Rock,120.0,Yes,No
+711,19.0,Spotify,5.0,Metal,210.0,Yes,Yes
+712,23.0,I do not use a streaming service.,3.0,Rock,,No,No
+713,17.0,YouTube Music,8.0,Pop,95.0,Yes,Yes
+714,29.0,Apple Music,1.0,Country,163.0,Yes,No
+715,21.0,Spotify,4.0,Pop,97.0,No,No
+716,17.0,Spotify,1.0,Metal,137.0,Yes,Yes
+717,23.0,Spotify,2.0,Rock,,Yes,Yes
+718,17.0,Spotify,1.0,Metal,70.0,Yes,Yes
+719,22.0,Spotify,3.0,Video game music,150.0,Yes,Yes
+720,17.0,Spotify,5.0,Hip hop,168.0,Yes,No
+721,19.0,Spotify,5.0,Pop,163.0,Yes,Yes
+722,19.0,Spotify,4.0,Pop,140.0,Yes,Yes
+723,16.0,Spotify,6.0,Pop,105.0,Yes,Yes
+724,19.0,Spotify,6.0,Pop,78.0,Yes,Yes
+725,13.0,Spotify,1.0,Video game music,128.0,Yes,No
+726,18.0,Apple Music,18.0,EDM,90.0,Yes,No
+727,26.0,YouTube Music,1.0,Metal,136.0,Yes,Yes
+728,14.0,Other streaming service,7.0,Country,108.0,Yes,No
+729,21.0,I do not use a streaming service.,0.5,Pop,95.0,Yes,No
+730,21.0,Spotify,2.0,R&B,147.0,Yes,Yes
+731,17.0,Spotify,2.0,Rock,120.0,Yes,Yes
+732,18.0,Spotify,1.0,Pop,160.0,Yes,Yes
+733,19.0,Other streaming service,6.0,Rap,120.0,Yes,No
+734,19.0,Spotify,5.0,Classical,170.0,No,No
+735,29.0,YouTube Music,2.0,Hip hop,98.0,Yes,Yes

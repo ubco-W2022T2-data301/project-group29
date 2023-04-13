@@ -1,5 +1,11 @@
-from .. import project_functions # This is called a relative import
-from analysis.code.project_functions import load_and_process
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import random
 
-df = project_functions.load_and_process("../data/raw/mxmh_survey_results.csv")
-df
+def loadd(csv):
+    dataload_1 = pd.read_csv(csv)
+    dataload = dataload_1[["Age", "Primary streaming service", "Hours per day", "Fav genre","BPM", "Exploratory", "Foreign languages"]]
+    dataload.dropna()
+    return dataload
