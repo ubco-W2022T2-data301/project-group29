@@ -1,4 +1,4 @@
-Index,HPD,WW,Instrumentalist,Composer,Anxiety,Depression,Insomnia,OCD,total_score,JHPD
+,HPD,WW,Instrumentalist,Composer,Anxiety,Depression,Insomnia,OCD,total_score,JHPD
 0,3.0,Yes,Yes,Yes,3.0,0.0,1.0,0.0,4.0,2.9807618337149635
 1,1.5,Yes,No,No,7.0,2.0,2.0,1.0,12.0,1.412906683801844
 2,4.0,No,No,No,7.0,7.0,10.0,2.0,26.0,3.9094962151281245
